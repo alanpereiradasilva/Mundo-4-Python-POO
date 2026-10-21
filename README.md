@@ -1,1 +1,1 @@
-Esse é a continuação dos outros mundos de python do Gustavo Guanabara, por isso está chamado de Mundo-4-Python, mas ele ressalta que o principal foco desse mundo é o estudo da lógica de Programação Orientada à Objetos para também servir para outras linguagens.  
+Essa é a continuação dos outros mundos de python do Gustavo Guanabara, por isso está chamado de Mundo-4-Python, mas ele ressalta que o principal foco desse mundo é o estudo da lógica de Programação Orientada à Objetos para também servir para outras linguagens.  
